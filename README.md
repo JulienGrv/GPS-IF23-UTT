@@ -9,7 +9,7 @@ In this project, we implemented on an Arduino Pro Mini a GPS Satellites Tracker 
 
 * **Julien Grave** - *Developer* - [JulienGrv](https://github.com/JulienGrv)
 
-See also the list of [contributors](https://github.com/GPS-IF23-UTT/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/JulienGrv/GPS-IF23-UTT/contributors) who participated in this project.
 
 ### License
 
